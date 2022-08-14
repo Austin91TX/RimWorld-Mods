@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlagueGun", "PlagueGun\PlagueGun.csproj", "{CCE57D38-97EB-44BD-A707-3BC05BD6D24D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCE57D38-97EB-44BD-A707-3BC05BD6D24D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE57D38-97EB-44BD-A707-3BC05BD6D24D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE57D38-97EB-44BD-A707-3BC05BD6D24D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE57D38-97EB-44BD-A707-3BC05BD6D24D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEF84CE3-238D-4D04-A08E-18D95D205840}
+	EndGlobalSection
+EndGlobal
