@@ -13,7 +13,7 @@ located in: $\Steam\steamapps\common\RimWorld\Data\Core\Defs\ThingDefs_Misc\Weap
 paste into %\RimWorld\Mods\$YourModName$\Defs\$ModNameDefs$
 		
 #This is where you'll create the C# code
-1. Create a .NET Framework project for creating C#
+1. Create a Class Library .NET Framework project for creating C#
 
 2. Right click the project name
 	Select Properties
