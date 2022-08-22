@@ -8,8 +8,9 @@
 3. Create a Defs folder in %\RimWorld\Mods\$YourModName$
 
 4. Copy code from a desired ThingDef from $\Steam\steamapps\common\RimWorld\Data\Core\Defs
-	Example: copy lines starting from <ThingDef to </ThingDef> located in: $\Steam\steamapps\common\RimWorld\Data\Core\Defs\ThingDefs_Misc\Weapons\RangedIndustrial.xml
-		paste into %\RimWorld\Mods\$YourModName$\Defs\$ModNameDefs$
+Example: copy lines starting from <ThingDef to </ThingDef>
+located in: $\Steam\steamapps\common\RimWorld\Data\Core\Defs\ThingDefs_Misc\Weapons\RangedIndustrial.xml
+paste into %\RimWorld\Mods\$YourModName$\Defs\$ModNameDefs$
 		
 #This is where you'll create the C# code
 1. Create a .NET Framework project for creating C#
